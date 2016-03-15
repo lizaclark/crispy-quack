@@ -1,2 +1,2 @@
 # crispy-quack
-For example files and scripts
+My utility scripts and code.
